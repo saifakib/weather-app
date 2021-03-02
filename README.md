@@ -49,7 +49,7 @@ To get the cluster ID, go to **Clusters** and click on **Connect > Connect your 
 Make an account at   and go to the [api keys](https://home.openweathermap.org/api_keys) section.
 Copy/pasta that key to the .env file using `WEATHER_KEY` as your key
 ```git push -u origin main
-WEATHER_KEY=1234567890asdfjkl
+Ex. WEATHER_KEY=1234567890asdfjkl
 ```
 
 ## Run Locally
